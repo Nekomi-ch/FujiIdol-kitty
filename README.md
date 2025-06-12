@@ -1,2 +1,6 @@
 # FujiIdol-kitty
-FujiIdol theme for kitty terminal
+A colorful theme for [kitty terminal](https://github.com/kovidgoyal/kitty).
+
+Based on FujiIdol theme.
+
+![](screenshot.png)
